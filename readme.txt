@@ -1,2 +1,2 @@
 Hello
-I think Jeremiah is special.
+I am excited to transition careers to become a software developer. 
